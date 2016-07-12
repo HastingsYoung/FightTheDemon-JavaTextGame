@@ -1,13 +1,13 @@
-ÕâÀïÊÇÓÎÏ·°ïÖú£º
-1£º±¾ÓÎÏ·ÖĞÃ»ÓĞ´æµµÔØÈë¹¦ÄÜ
-2£ºÓÎÏ·ÖĞ¼üÅÌ¿É¶ÔÓ¦ÏàÓ¦µÄÑ¡Ïî£º
-...Q£ºÈÎÎñ²é¿´  
-...M£º²é¿´µØÍ¼  
-...K£º²é¿´¼¼ÄÜ
-...C£º½ÇÉ«ĞÅÏ¢²é¿´   
-...B£º²é¿´½ÇÉ«±³°ü
-3£º±¾ÓÎÏ·¹ÖÎïµÄÄÜÁ¦ÖµÊÇËæ½ÇÉ«µÄµÈ¼¶¶ø±ä»¯µÄ
-4£ºÍêÈ«²ÉÓÃ¿ØÖÆÌ¨²Ù×÷£¬ËùÒÔÊäÈëµÄÊ±ºò×¢Òâ²»ÒªÌ«¿ì
-5£ºµ±ÓÎÏ··¢³ö¾¯¸æÊ±Í¨³£»áÍ£¶ÙÒ»»á£¬×¢ÒâµÈ´ıÊ±¼ä
+Game helper informationï¼š
+1ï¼šLoading functionality is not yet implemented
+2ï¼šKeyboardï¼š
+...Qï¼šMission  
+...Mï¼šMap  
+...Kï¼šSkill
+...Cï¼šCharacter Info   
+...Bï¼šKnapsack
+3ï¼šThe level of monsters in this game changes as the role level changes.
+4ï¼šThis game is completely controlled by console.
+5ï¼šHave a pause when warning is presentedï¼Œcheck the waiting time.
 
-×îºó£º×£´ó¼ÒÓÎÏ·Óä¿ì£¡
+Enjoy your gameï¼
